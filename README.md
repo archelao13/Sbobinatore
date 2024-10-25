@@ -28,7 +28,8 @@ Puoi installare le librerie necessarie eseguendo il comando:
 5. Al termine, puoi salvare la trascrizione e il riassunto.
 
 ## Licenza
-Questo progetto è di libero utilizzo. È consentita la modifica e la distribuzione, purché venga mantenuto il riconoscimento del lavoro originale.
+Questo progetto è di libero utilizzo. È consentita la modifica e la distribuzione, purché venga mantenuto il riconoscimento del lavoro originale
+in particolare gli autori SW Engineers Simone Garau e Nicola Lombardi.
 
 ## Contatti
 Per ulteriori domande o suggerimenti, contattami via email.
